@@ -7,7 +7,7 @@
 Projeto construído no evento 
 Next Level Week da Rocketseat.
 
- ➜ Clique aqui para acessar : https://github.com/samueliglesiass/NLW-esports-explorer
+ ➜ Clique aqui para acessar : https://samueliglesiass.github.io/NLW-esports-explorer
 
 
 ## Tecnologias
